@@ -10,7 +10,7 @@ const {
 const metadata = require('../_data/metadata.js');
 
 const RESULTS_PER_PAGE = 100;
-const STOP_FETCH_AT_EXISTING_RECORD_COUNT = 200;
+const STOP_FETCH_AT_EXISTING_RECORD_COUNT = 1;
 
 const client = new Twitter({
   version: '2',
