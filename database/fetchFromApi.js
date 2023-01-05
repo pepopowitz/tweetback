@@ -37,7 +37,7 @@ async function retrieveTweets(maxId, existingRecordsFound = 0) {
     expansions: [
       'in_reply_to_user_id',
       'attachments.media_keys',
-      // "referenced_tweets.id",
+      'referenced_tweets.id',
       // "referenced_tweets.id.author_id",
       // "entities.mentions.username",
     ].join(','),
@@ -95,7 +95,7 @@ async function retrieveTweets(maxId, existingRecordsFound = 0) {
 
   let tweets = results.data;
   let users = results.includes.users;
-  let media = results.includes.media;
+  let mediaObjects = results.includes.media;
 
   console.log(`${tweets.length} tweets found.`);
   // console.log( JSON.stringify(tweets, null, 2) );
@@ -115,6 +115,46 @@ async function retrieveTweets(maxId, existingRecordsFound = 0) {
       //   and then I'll take that file and pre-pend it in tweets.js
       //   so that we don't have to keep running the api call every build!
       // saveToDatabase(tweet, users, media);
+      tweet.id_str = tweet.id; //sjh because 11ty uses this field for permalink
+      tweet.full_text = tweet.text; //sjh because lots of places in the site use this field
+      // sjh vvv because 11ty uses this to identify originals vs replies
+      if (tweet?.referenced_tweets?.[0]?.type === 'replied_to') {
+        tweet.in_reply_to_status_id = tweet.referenced_tweets[0].id;
+        tweet.in_reply_to_status_id_str = tweet.in_reply_to_status_id;
+      }
+      // sjh vvv because 11ty needs this to capture media
+      //  also, this is verbatim copied from tweet-to-db.
+      if (tweet.attachments && tweet.attachments.media_keys) {
+        tweet.extended_entities = {
+          media: [],
+        };
+
+        for (let key of tweet.attachments.media_keys) {
+          let [media] = mediaObjects.filter((entry) => entry.media_key === key);
+          if (media) {
+            // aliases for v1
+            if (media.type === 'video') {
+              // video
+              media.media_url_https = media.preview_image_url;
+              media.video_info = {
+                variants: [
+                  {
+                    url: media.url,
+                  },
+                ],
+              };
+            } else {
+              media.media_url_https = media.url;
+            }
+
+            tweet.extended_entities.media.push(media);
+          } else {
+            throw new Error(
+              `Media object not found for media key ${key} on tweet ${tweet.id}`
+            );
+          }
+        }
+      }
 
       newTweetsStream.write(`{ "tweet": ${JSON.stringify(tweet, null, 2)} },
 `);
