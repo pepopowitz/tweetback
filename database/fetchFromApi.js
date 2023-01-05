@@ -9,6 +9,9 @@ const {
 } = require('./tweet-to-db');
 const metadata = require('../_data/metadata.js');
 
+//sjh
+const { createWriteStream } = require('fs');
+
 const RESULTS_PER_PAGE = 100;
 const STOP_FETCH_AT_EXISTING_RECORD_COUNT = 1;
 
@@ -22,6 +25,12 @@ let requestCount = 0;
 
 async function retrieveTweets(maxId, existingRecordsFound = 0) {
   console.log('Fetching more tweets!', maxId);
+
+  //sjh - we'll write new tweets to this stream
+  var newTweetsStream = createWriteStream('database/new-tweets.json', {
+    flags: 'a',
+  });
+
   var params = {
     // since_id
     max_results: RESULTS_PER_PAGE,
@@ -102,7 +111,13 @@ async function retrieveTweets(maxId, existingRecordsFound = 0) {
     if (tweet === false) {
       existingRecordsFound++;
     } else {
-      saveToDatabase(tweet, users, media);
+      // sjh instead of saving to the database, we'll write to a file
+      //   and then I'll take that file and pre-pend it in tweets.js
+      //   so that we don't have to keep running the api call every build!
+      // saveToDatabase(tweet, users, media);
+
+      newTweetsStream.write(`{ "tweet": ${JSON.stringify(tweet, null, 2)} },
+`);
     }
   }
 
@@ -115,6 +130,7 @@ async function retrieveTweets(maxId, existingRecordsFound = 0) {
       STOP_FETCH_AT_EXISTING_RECORD_COUNT,
       ' existing records found, stopping.'
     );
+    newTweetsStream.end();
   }
 }
 
