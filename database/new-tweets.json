@@ -1,0 +1,1980 @@
+{ "tweet": {
+  "created_at": "2022-12-22T02:44:27.000Z",
+  "entities": {
+    "mentions": [
+      {
+        "start": 3,
+        "end": 13,
+        "username": "kcbigring",
+        "id": "2807"
+      }
+    ],
+    "annotations": [
+      {
+        "start": 87,
+        "end": 93,
+        "probability": 0.4091,
+        "type": "Organization",
+        "normalized_text": "Peacock"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1605756119737139200",
+  "public_metrics": {
+    "retweet_count": 13,
+    "reply_count": 0,
+    "like_count": 0,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "RT @kcbigring: I have seen this so many times in my career. No stackers come in like a Peacock. Puffing up about how everything is broken;…",
+  "conversation_id": "1605756119737139200",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "retweeted",
+      "id": "1605736213897285632"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1605756119737139200"
+  ],
+  "id_str": "1605756119737139200",
+  "full_text": "RT @kcbigring: I have seen this so many times in my career. No stackers come in like a Peacock. Puffing up about how everything is broken;…"
+} },
+{ "tweet": {
+  "created_at": "2022-12-20T17:44:21.000Z",
+  "entities": {
+    "mentions": [
+      {
+        "start": 3,
+        "end": 17,
+        "username": "ADevExPodcast",
+        "id": "1576396764738981889"
+      },
+      {
+        "start": 61,
+        "end": 70,
+        "username": "mweinand",
+        "id": "23512274"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1605257812971487232",
+  "public_metrics": {
+    "retweet_count": 1,
+    "reply_count": 0,
+    "like_count": 0,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "RT @ADevExPodcast: In your podcast player today -- I talk to @mweinand  about the list-making that helps him be a Very Reliable Person ™️.…",
+  "conversation_id": "1605257812971487232",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "retweeted",
+      "id": "1605257717538783232"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1605257812971487232"
+  ],
+  "id_str": "1605257812971487232",
+  "full_text": "RT @ADevExPodcast: In your podcast player today -- I talk to @mweinand  about the list-making that helps him be a Very Reliable Person ™️.…"
+} },
+{ "tweet": {
+  "created_at": "2022-12-16T14:23:49.000Z",
+  "entities": {
+    "mentions": [
+      {
+        "start": 3,
+        "end": 16,
+        "username": "profgalloway",
+        "id": "9273802"
+      }
+    ],
+    "annotations": [
+      {
+        "start": 18,
+        "end": 24,
+        "probability": 0.9517,
+        "type": "Other",
+        "normalized_text": "Twitter"
+      },
+      {
+        "start": 46,
+        "end": 49,
+        "probability": 0.8443,
+        "type": "Person",
+        "normalized_text": "Elon"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1603757796117581824",
+  "public_metrics": {
+    "retweet_count": 6473,
+    "reply_count": 0,
+    "like_count": 0,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "RT @profgalloway: Twitter TOS: \n\n• don’t hurt Elon’s feelings",
+  "conversation_id": "1603757796117581824",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "retweeted",
+      "id": "1603593262249410562"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1603757796117581824"
+  ],
+  "id_str": "1603757796117581824",
+  "full_text": "RT @profgalloway: Twitter TOS: \n\n• don’t hurt Elon’s feelings"
+} },
+{ "tweet": {
+  "created_at": "2022-12-16T14:22:29.000Z",
+  "in_reply_to_user_id": "79355346",
+  "author_id": "79355346",
+  "id": "1603757459297927233",
+  "public_metrics": {
+    "retweet_count": 0,
+    "reply_count": 0,
+    "like_count": 0,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "PS no I don't want to join your discord, thanks for asking.",
+  "conversation_id": "1603757451790225415",
+  "entities": {
+    "annotations": [
+      {
+        "start": 32,
+        "end": 38,
+        "probability": 0.9304,
+        "type": "Other",
+        "normalized_text": "discord"
+      }
+    ]
+  },
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "replied_to",
+      "id": "1603757456798236672"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1603757459297927233"
+  ],
+  "id_str": "1603757459297927233",
+  "full_text": "PS no I don't want to join your discord, thanks for asking.",
+  "in_reply_to_status_id": "1603757456798236672",
+  "in_reply_to_status_id_str": "1603757456798236672"
+} },
+{ "tweet": {
+  "created_at": "2022-12-16T14:22:28.000Z",
+  "in_reply_to_user_id": "79355346",
+  "author_id": "79355346",
+  "id": "1603757456798236672",
+  "public_metrics": {
+    "retweet_count": 0,
+    "reply_count": 1,
+    "like_count": 2,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "Thanks to all the friends I met here. This was my favorite form of social media, it fit with my brain (and preyed on it but who's counting). The software engineering community here was incredible. Hope I see you over at the 🦣 site.",
+  "conversation_id": "1603757451790225415",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "replied_to",
+      "id": "1603757453748977664"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1603757456798236672"
+  ],
+  "id_str": "1603757456798236672",
+  "full_text": "Thanks to all the friends I met here. This was my favorite form of social media, it fit with my brain (and preyed on it but who's counting). The software engineering community here was incredible. Hope I see you over at the 🦣 site.",
+  "in_reply_to_status_id": "1603757453748977664",
+  "in_reply_to_status_id_str": "1603757453748977664"
+} },
+{ "tweet": {
+  "created_at": "2022-12-16T14:22:28.000Z",
+  "in_reply_to_user_id": "79355346",
+  "entities": {
+    "mentions": [
+      {
+        "start": 48,
+        "end": 62,
+        "username": "ADevExPodcast",
+        "id": "1576396764738981889"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1603757453748977664",
+  "public_metrics": {
+    "retweet_count": 0,
+    "reply_count": 1,
+    "like_count": 0,
+    "quote_count": 1
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "I'll also find an appropriate 🦣 instance for my @ADevExPodcast and move it off this platform.",
+  "conversation_id": "1603757451790225415",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "replied_to",
+      "id": "1603757451790225415"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1603757453748977664"
+  ],
+  "id_str": "1603757453748977664",
+  "full_text": "I'll also find an appropriate 🦣 instance for my @ADevExPodcast and move it off this platform.",
+  "in_reply_to_status_id": "1603757451790225415",
+  "in_reply_to_status_id_str": "1603757451790225415"
+} },
+{ "tweet": {
+  "created_at": "2022-12-16T14:22:27.000Z",
+  "author_id": "79355346",
+  "id": "1603757451790225415",
+  "public_metrics": {
+    "retweet_count": 0,
+    "reply_count": 1,
+    "like_count": 4,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "Hey, in the next week I'm planning to GTFO. I will...\n\n1. Do this: https://t.co/k5Dj2I3MJW\n2. Do something with my account here, not sure what yet\n3. Delete this app\n4. Fully embrace my @pepopowitz@hachyderm.io 🦣 account\n\nI'll keep https://t.co/9N8WbHxppj updated.",
+  "entities": {
+    "urls": [
+      {
+        "start": 67,
+        "end": 90,
+        "url": "https://t.co/k5Dj2I3MJW",
+        "expanded_url": "https://www.zachleat.com/web/tweetback/",
+        "display_url": "zachleat.com/web/tweetback/",
+        "images": [
+          {
+            "url": "https://pbs.twimg.com/news_img/1603757455246348288/Yrn79NDE?format=jpg&name=orig",
+            "width": 1200,
+            "height": 630
+          },
+          {
+            "url": "https://pbs.twimg.com/news_img/1603757455246348288/Yrn79NDE?format=jpg&name=150x150",
+            "width": 150,
+            "height": 150
+          }
+        ],
+        "status": 200,
+        "title": "Archive your Tweets with Tweetback—zachleat.com",
+        "description": "A post by Zach Leatherman (zachleat)",
+        "unwound_url": "https://www.zachleat.com/web/tweetback/"
+      },
+      {
+        "start": 232,
+        "end": 255,
+        "url": "https://t.co/9N8WbHxppj",
+        "expanded_url": "https://stevenhicks.me/where",
+        "display_url": "stevenhicks.me/where",
+        "status": 200,
+        "title": "Where am I? - Steven Hicks",
+        "description": "Where can you find Steven Hicks online?",
+        "unwound_url": "https://www.stevenhicks.me/where/"
+      }
+    ],
+    "annotations": [
+      {
+        "start": 38,
+        "end": 41,
+        "probability": 0.636,
+        "type": "Other",
+        "normalized_text": "GTFO"
+      }
+    ]
+  },
+  "conversation_id": "1603757451790225415",
+  "reply_settings": "everyone",
+  "edit_history_tweet_ids": [
+    "1603757451790225415"
+  ],
+  "id_str": "1603757451790225415",
+  "full_text": "Hey, in the next week I'm planning to GTFO. I will...\n\n1. Do this: https://t.co/k5Dj2I3MJW\n2. Do something with my account here, not sure what yet\n3. Delete this app\n4. Fully embrace my @pepopowitz@hachyderm.io 🦣 account\n\nI'll keep https://t.co/9N8WbHxppj updated."
+} },
+{ "tweet": {
+  "created_at": "2022-12-15T16:04:23.000Z",
+  "entities": {
+    "mentions": [
+      {
+        "start": 3,
+        "end": 17,
+        "username": "ADevExPodcast",
+        "id": "1576396764738981889"
+      },
+      {
+        "start": 78,
+        "end": 87,
+        "username": "mweinand",
+        "id": "23512274"
+      }
+    ],
+    "annotations": [
+      {
+        "start": 36,
+        "end": 44,
+        "probability": 0.6568,
+        "type": "Other",
+        "normalized_text": "Developer"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1603420714295595011",
+  "public_metrics": {
+    "retweet_count": 1,
+    "reply_count": 0,
+    "like_count": 0,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "RT @ADevExPodcast: Coming soon to A Developer Experience Podcast -- I talk to @mweinand, about the anxiety that comes along with being a re…",
+  "conversation_id": "1603420714295595011",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "retweeted",
+      "id": "1603409797726064642"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1603420714295595011"
+  ],
+  "id_str": "1603420714295595011",
+  "full_text": "RT @ADevExPodcast: Coming soon to A Developer Experience Podcast -- I talk to @mweinand, about the anxiety that comes along with being a re…"
+} },
+{ "tweet": {
+  "created_at": "2022-12-06T17:33:41.000Z",
+  "entities": {
+    "mentions": [
+      {
+        "start": 3,
+        "end": 17,
+        "username": "ADevExPodcast",
+        "id": "1576396764738981889"
+      },
+      {
+        "start": 50,
+        "end": 66,
+        "username": "luckygirliegirl",
+        "id": "581641416"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1600181700079759360",
+  "public_metrics": {
+    "retweet_count": 1,
+    "reply_count": 0,
+    "like_count": 0,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "RT @ADevExPodcast: In your podcast players now! \n\n@luckygirliegirl talks about the importance of naming your feelings, changing your brainw…",
+  "conversation_id": "1600181700079759360",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "retweeted",
+      "id": "1600181608518078465"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1600181700079759360"
+  ],
+  "id_str": "1600181700079759360",
+  "full_text": "RT @ADevExPodcast: In your podcast players now! \n\n@luckygirliegirl talks about the importance of naming your feelings, changing your brainw…"
+} },
+{ "tweet": {
+  "created_at": "2022-12-06T12:05:22.000Z",
+  "entities": {
+    "mentions": [
+      {
+        "start": 3,
+        "end": 18,
+        "username": "Dixie3Flatline",
+        "id": "835996764"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1600099076288131073",
+  "public_metrics": {
+    "retweet_count": 8,
+    "reply_count": 0,
+    "like_count": 0,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "RT @Dixie3Flatline: sure sex is great but have you ever hit shift + esc on a massive slack workspace loaded with notifications",
+  "conversation_id": "1600099076288131073",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "retweeted",
+      "id": "1599930274871390208"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1600099076288131073"
+  ],
+  "id_str": "1600099076288131073",
+  "full_text": "RT @Dixie3Flatline: sure sex is great but have you ever hit shift + esc on a massive slack workspace loaded with notifications"
+} },
+{ "tweet": {
+  "created_at": "2022-12-02T22:12:33.000Z",
+  "in_reply_to_user_id": "79355346",
+  "author_id": "79355346",
+  "id": "1598802326982037507",
+  "public_metrics": {
+    "retweet_count": 0,
+    "reply_count": 0,
+    "like_count": 0,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "Kudos to \n\n\"With your snuggles and headbutts\nYou make everything alright.\"\n\nthough",
+  "conversation_id": "1598802322334789632",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "replied_to",
+      "id": "1598802325048549376"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1598802326982037507"
+  ],
+  "id_str": "1598802326982037507",
+  "full_text": "Kudos to \n\n\"With your snuggles and headbutts\nYou make everything alright.\"\n\nthough",
+  "in_reply_to_status_id": "1598802325048549376",
+  "in_reply_to_status_id_str": "1598802325048549376"
+} },
+{ "tweet": {
+  "created_at": "2022-12-02T22:12:33.000Z",
+  "in_reply_to_user_id": "79355346",
+  "author_id": "79355346",
+  "id": "1598802325048549376",
+  "public_metrics": {
+    "retweet_count": 0,
+    "reply_count": 1,
+    "like_count": 1,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "The way it injects the part of the prompt it doesn't understand directly into the lyrics reminds me of that time I had a friend who did an impression of meatwad from Aqua Teen Hungerforce and it went \"hey guys, I'm meatwad!\" and sounded nothing like meatwad.",
+  "conversation_id": "1598802322334789632",
+  "entities": {
+    "annotations": [
+      {
+        "start": 153,
+        "end": 159,
+        "probability": 0.4987,
+        "type": "Other",
+        "normalized_text": "meatwad"
+      },
+      {
+        "start": 166,
+        "end": 186,
+        "probability": 0.9314,
+        "type": "Other",
+        "normalized_text": "Aqua Teen Hungerforce"
+      }
+    ]
+  },
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "replied_to",
+      "id": "1598802322334789632"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1598802325048549376"
+  ],
+  "id_str": "1598802325048549376",
+  "full_text": "The way it injects the part of the prompt it doesn't understand directly into the lyrics reminds me of that time I had a friend who did an impression of meatwad from Aqua Teen Hungerforce and it went \"hey guys, I'm meatwad!\" and sounded nothing like meatwad.",
+  "in_reply_to_status_id": "1598802322334789632",
+  "in_reply_to_status_id_str": "1598802322334789632"
+} },
+{ "tweet": {
+  "created_at": "2022-12-02T22:12:32.000Z",
+  "entities": {
+    "mentions": [
+      {
+        "start": 63,
+        "end": 79,
+        "username": "illuminatihotts",
+        "id": "266706799"
+      }
+    ],
+    "urls": [
+      {
+        "start": 80,
+        "end": 103,
+        "url": "https://t.co/lgza7aqkVB",
+        "expanded_url": "https://twitter.com/pepopowitz/status/1598802322334789632/photo/1",
+        "display_url": "pic.twitter.com/lgza7aqkVB",
+        "media_key": "3_1598800354497511425"
+      },
+      {
+        "start": 80,
+        "end": 103,
+        "url": "https://t.co/lgza7aqkVB",
+        "expanded_url": "https://twitter.com/pepopowitz/status/1598802322334789632/photo/1",
+        "display_url": "pic.twitter.com/lgza7aqkVB",
+        "media_key": "3_1598801407272001539"
+      }
+    ],
+    "annotations": [
+      {
+        "start": 24,
+        "end": 25,
+        "probability": 0.742,
+        "type": "Organization",
+        "normalized_text": "AI"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1598802322334789632",
+  "public_metrics": {
+    "retweet_count": 0,
+    "reply_count": 1,
+    "like_count": 2,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "Good news, songwriters! AI will not be replacing you yet. \n\ncc @illuminatihotts https://t.co/lgza7aqkVB",
+  "attachments": {
+    "media_keys": [
+      "3_1598800354497511425",
+      "3_1598801407272001539"
+    ]
+  },
+  "conversation_id": "1598802322334789632",
+  "reply_settings": "everyone",
+  "edit_history_tweet_ids": [
+    "1598802322334789632"
+  ],
+  "id_str": "1598802322334789632",
+  "full_text": "Good news, songwriters! AI will not be replacing you yet. \n\ncc @illuminatihotts https://t.co/lgza7aqkVB",
+  "extended_entities": {
+    "media": [
+      {
+        "height": 1544,
+        "url": "https://pbs.twimg.com/media/FjAUc5yXwAE0xvk.jpg",
+        "media_key": "3_1598800354497511425",
+        "alt_text": "Screenshot from a chat conversation with ChatGPT.\n\nInput: \"Write me a song about my black cat Todd as if it was written by the Illuminati Hotties\"\n\nOutput: \"\nVerse 1:\nMeet Todd, our black cat\nHe's the ruler of our flat\nWith his sleek fur and glowing eyes\nHe's a sight to behold, oh my!\n\nChorus:\nTodd, oh Todd\nYou're the king of our domain\nWith your aloof and dignified air\nYou make us feel like we're insane\n\nVerse 2:\nYou saunter around the house\nWith your tail held high\nYou own every room you enter\nWe're just lucky to be by your side\n\nBridge:\nBut don't let your regal demeanor\nFool you into thinking we're not equal\nWe're part of the Illuminati Hotties\nAnd together, we're unstoppable\n\nChorus:\nTodd, oh Todd\nYou're the king of our domain\nWith your aloof and dignified air\nYou make us feel like we're insane.\n\"",
+        "width": 1320,
+        "type": "photo",
+        "media_url_https": "https://pbs.twimg.com/media/FjAUc5yXwAE0xvk.jpg"
+      },
+      {
+        "height": 1528,
+        "url": "https://pbs.twimg.com/media/FjAVaLrXoAMkqY0.jpg",
+        "media_key": "3_1598801407272001539",
+        "alt_text": "Screenshot from a conversation with ChatGPT.\n\nInput: \"That's great, but could you make it more tenderpunk?\"\n\nOutput: \"\nVerse 1:\nMeet Todd, our black cat\nHe's the softest thing we've ever had\nWith his fluffy fur and gentle purr\nHe's the sweetest boy, for sure\n\nChorus:\nTodd, oh Todd\nYou're the light of our lives\nWith your snuggles and headbutts\nYou make everything alright\n\nVerse 2:\nYou curl up on our laps\nAnd melt our hearts with your touch\nWe could stare at you for hours\nAnd never get enough\n\nBridge:\nBut don't let your tenderness\nFool you into thinking we're not tough\nWe're part of the tenderpunk crew\nAnd together, we can't be buffed\n\nChorus:\nTodd, oh Todd\nYou're the light of our lives\nWith your snuggles and headbutts\nYou make everything alright.\n\"",
+        "width": 1282,
+        "type": "photo",
+        "media_url_https": "https://pbs.twimg.com/media/FjAVaLrXoAMkqY0.jpg"
+      }
+    ]
+  }
+} },
+{ "tweet": {
+  "created_at": "2022-12-01T17:53:05.000Z",
+  "in_reply_to_user_id": "9362492",
+  "entities": {
+    "mentions": [
+      {
+        "start": 0,
+        "end": 11,
+        "username": "mary_grace",
+        "id": "9362492"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1598374639499153454",
+  "public_metrics": {
+    "retweet_count": 0,
+    "reply_count": 1,
+    "like_count": 1,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "@mary_grace Ugggh so bummed I missed it 😭",
+  "conversation_id": "1598336630691344384",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "replied_to",
+      "id": "1598336630691344384"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1598374639499153454"
+  ],
+  "id_str": "1598374639499153454",
+  "full_text": "@mary_grace Ugggh so bummed I missed it 😭",
+  "in_reply_to_status_id": "1598336630691344384",
+  "in_reply_to_status_id_str": "1598336630691344384"
+} },
+{ "tweet": {
+  "created_at": "2022-12-01T17:48:12.000Z",
+  "entities": {
+    "mentions": [
+      {
+        "start": 3,
+        "end": 17,
+        "username": "ADevExPodcast",
+        "id": "1576396764738981889"
+      },
+      {
+        "start": 71,
+        "end": 87,
+        "username": "luckygirliegirl",
+        "id": "581641416"
+      }
+    ],
+    "annotations": [
+      {
+        "start": 41,
+        "end": 60,
+        "probability": 0.5951,
+        "type": "Other",
+        "normalized_text": "Developer Experience"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1598373410652160000",
+  "public_metrics": {
+    "retweet_count": 2,
+    "reply_count": 0,
+    "like_count": 0,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "RT @ADevExPodcast: Coming next week on A Developer Experience Podcast: @luckygirliegirl talks about the importance of taking a break, to ch…",
+  "conversation_id": "1598373410652160000",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "retweeted",
+      "id": "1598332089773989892"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1598373410652160000"
+  ],
+  "id_str": "1598373410652160000",
+  "full_text": "RT @ADevExPodcast: Coming next week on A Developer Experience Podcast: @luckygirliegirl talks about the importance of taking a break, to ch…"
+} },
+{ "tweet": {
+  "created_at": "2022-12-01T15:43:00.000Z",
+  "author_id": "79355346",
+  "id": "1598341903925346304",
+  "public_metrics": {
+    "retweet_count": 2,
+    "reply_count": 0,
+    "like_count": 4,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "One of my favorite things about software development is taking big problems and breaking them down into smaller ones. I've never had as fine an example of this as a project I recently finished working on, so I wrote about it: \n\nhttps://t.co/xS35mnHjSx",
+  "entities": {
+    "urls": [
+      {
+        "start": 228,
+        "end": 251,
+        "url": "https://t.co/xS35mnHjSx",
+        "expanded_url": "https://www.stevenhicks.me/blog/2022/11/breaking-problems-down-a-case-study/",
+        "display_url": "stevenhicks.me/blog/2022/11/b…",
+        "images": [
+          {
+            "url": "https://pbs.twimg.com/news_img/1598341947806158848/sDO_JRVf?format=jpg&name=orig",
+            "width": 1280,
+            "height": 669
+          },
+          {
+            "url": "https://pbs.twimg.com/news_img/1598341947806158848/sDO_JRVf?format=jpg&name=150x150",
+            "width": 150,
+            "height": 150
+          }
+        ],
+        "status": 200,
+        "title": "Breaking Problems Down: A Case Study",
+        "description": "I've written in the past about breaking problems down in the abstract. For the last couple months I've worked on a project where I can demonstrate it in real life!",
+        "unwound_url": "https://www.stevenhicks.me/blog/2022/11/breaking-problems-down-a-case-study/"
+      }
+    ]
+  },
+  "conversation_id": "1598341903925346304",
+  "reply_settings": "everyone",
+  "edit_history_tweet_ids": [
+    "1598341903925346304"
+  ],
+  "id_str": "1598341903925346304",
+  "full_text": "One of my favorite things about software development is taking big problems and breaking them down into smaller ones. I've never had as fine an example of this as a project I recently finished working on, so I wrote about it: \n\nhttps://t.co/xS35mnHjSx"
+} },
+{ "tweet": {
+  "created_at": "2022-11-30T14:23:15.000Z",
+  "in_reply_to_user_id": "851430115",
+  "entities": {
+    "mentions": [
+      {
+        "start": 0,
+        "end": 11,
+        "username": "davidgsIoT",
+        "id": "851430115"
+      }
+    ],
+    "urls": [
+      {
+        "start": 107,
+        "end": 130,
+        "url": "https://t.co/VxxQ8m5on6",
+        "expanded_url": "https://twitter.com/pepopowitz/status/1597959445665153026/photo/1",
+        "display_url": "pic.twitter.com/VxxQ8m5on6",
+        "media_key": "3_1597959443509137417"
+      }
+    ],
+    "annotations": [
+      {
+        "start": 53,
+        "end": 58,
+        "probability": 0.8723,
+        "type": "Organization",
+        "normalized_text": "Google"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1597959445665153026",
+  "public_metrics": {
+    "retweet_count": 0,
+    "reply_count": 1,
+    "like_count": 1,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "@davidgsIoT I don't know this seems more useful than Google. The story ends with her son bringing her one. https://t.co/VxxQ8m5on6",
+  "attachments": {
+    "media_keys": [
+      "3_1597959443509137417"
+    ]
+  },
+  "conversation_id": "1597956049763721216",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "replied_to",
+      "id": "1597956049763721216"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1597959445665153026"
+  ],
+  "id_str": "1597959445665153026",
+  "full_text": "@davidgsIoT I don't know this seems more useful than Google. The story ends with her son bringing her one. https://t.co/VxxQ8m5on6",
+  "in_reply_to_status_id": "1597956049763721216",
+  "in_reply_to_status_id_str": "1597956049763721216",
+  "extended_entities": {
+    "media": [
+      {
+        "height": 1205,
+        "url": "https://pbs.twimg.com/media/Fi0XpcPX0AkU4yg.jpg",
+        "media_key": "3_1597959443509137417",
+        "alt_text": "An email I received from nextdoor, with the title \"MY GOOD I NEED A POTATO PELLER [sic]\"",
+        "width": 1080,
+        "type": "photo",
+        "media_url_https": "https://pbs.twimg.com/media/Fi0XpcPX0AkU4yg.jpg"
+      }
+    ]
+  }
+} },
+{ "tweet": {
+  "created_at": "2022-11-29T16:29:34.000Z",
+  "entities": {
+    "mentions": [
+      {
+        "start": 3,
+        "end": 17,
+        "username": "ADevExPodcast",
+        "id": "1576396764738981889"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1597628849961209858",
+  "public_metrics": {
+    "retweet_count": 2,
+    "reply_count": 0,
+    "like_count": 0,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "RT @ADevExPodcast: Another in-betweener mini-episode today! This one's on the fluidity in our productivity systems, and especially the impo…",
+  "conversation_id": "1597628849961209858",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "retweeted",
+      "id": "1597628715386957827"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1597628849961209858"
+  ],
+  "id_str": "1597628849961209858",
+  "full_text": "RT @ADevExPodcast: Another in-betweener mini-episode today! This one's on the fluidity in our productivity systems, and especially the impo…"
+} },
+{ "tweet": {
+  "created_at": "2022-11-27T05:49:26.000Z",
+  "in_reply_to_user_id": "79355346",
+  "entities": {
+    "mentions": [
+      {
+        "start": 0,
+        "end": 9,
+        "username": "AlanJay1",
+        "id": "278568311"
+      },
+      {
+        "start": 10,
+        "end": 19,
+        "username": "Zephraph",
+        "id": "156225863"
+      },
+      {
+        "start": 20,
+        "end": 27,
+        "username": "pvinis",
+        "id": "18366884"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1596742978621427712",
+  "public_metrics": {
+    "retweet_count": 0,
+    "reply_count": 1,
+    "like_count": 1,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "@AlanJay1 @Zephraph @pvinis Blocked instance 🙄",
+  "conversation_id": "1596705901813301249",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "replied_to",
+      "id": "1596742885420171265"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1596742978621427712"
+  ],
+  "id_str": "1596742978621427712",
+  "full_text": "@AlanJay1 @Zephraph @pvinis Blocked instance 🙄",
+  "in_reply_to_status_id": "1596742885420171265",
+  "in_reply_to_status_id_str": "1596742885420171265"
+} },
+{ "tweet": {
+  "created_at": "2022-11-27T05:49:04.000Z",
+  "in_reply_to_user_id": "278568311",
+  "entities": {
+    "mentions": [
+      {
+        "start": 0,
+        "end": 9,
+        "username": "AlanJay1",
+        "id": "278568311"
+      },
+      {
+        "start": 129,
+        "end": 138,
+        "username": "Zephraph",
+        "id": "156225863"
+      },
+      {
+        "start": 144,
+        "end": 151,
+        "username": "pvinis",
+        "id": "18366884"
+      }
+    ],
+    "annotations": [
+      {
+        "start": 29,
+        "end": 32,
+        "probability": 0.4816,
+        "type": "Other",
+        "normalized_text": "qoto"
+      },
+      {
+        "start": 159,
+        "end": 162,
+        "probability": 0.6415,
+        "type": "Other",
+        "normalized_text": "qoto"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1596742885420171265",
+  "public_metrics": {
+    "retweet_count": 0,
+    "reply_count": 1,
+    "like_count": 2,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "@AlanJay1 No, it doesn't. No qoto users in my followings or followers. And I am pretty sure I followed at least a couple of you, @Zephraph, and @pvinis all on qoto before it got blocked. At least the blocked insurance feature is very complete 😁",
+  "conversation_id": "1596705901813301249",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "replied_to",
+      "id": "1596741332134809605"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1596742885420171265"
+  ],
+  "id_str": "1596742885420171265",
+  "full_text": "@AlanJay1 No, it doesn't. No qoto users in my followings or followers. And I am pretty sure I followed at least a couple of you, @Zephraph, and @pvinis all on qoto before it got blocked. At least the blocked insurance feature is very complete 😁",
+  "in_reply_to_status_id": "1596741332134809605",
+  "in_reply_to_status_id_str": "1596741332134809605"
+} },
+{ "tweet": {
+  "created_at": "2022-11-27T05:32:14.000Z",
+  "in_reply_to_user_id": "278568311",
+  "entities": {
+    "mentions": [
+      {
+        "start": 0,
+        "end": 9,
+        "username": "AlanJay1",
+        "id": "278568311"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1596738648174907392",
+  "public_metrics": {
+    "retweet_count": 0,
+    "reply_count": 1,
+    "like_count": 0,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "@AlanJay1 Yeah I *think* that's where I see myself in the future, so that I'm in charge of building my own walls. At this point it seems too intimidating for me (or at least more effort than I want to invest right now). I look forward to hearing about your experiences with it.",
+  "conversation_id": "1596705901813301249",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "replied_to",
+      "id": "1596737083661602817"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1596738648174907392"
+  ],
+  "id_str": "1596738648174907392",
+  "full_text": "@AlanJay1 Yeah I *think* that's where I see myself in the future, so that I'm in charge of building my own walls. At this point it seems too intimidating for me (or at least more effort than I want to invest right now). I look forward to hearing about your experiences with it.",
+  "in_reply_to_status_id": "1596737083661602817",
+  "in_reply_to_status_id_str": "1596737083661602817"
+} },
+{ "tweet": {
+  "created_at": "2022-11-27T05:23:25.000Z",
+  "in_reply_to_user_id": "278568311",
+  "entities": {
+    "mentions": [
+      {
+        "start": 0,
+        "end": 9,
+        "username": "AlanJay1",
+        "id": "278568311"
+      }
+    ],
+    "annotations": [
+      {
+        "start": 75,
+        "end": 82,
+        "probability": 0.4751,
+        "type": "Other",
+        "normalized_text": "mastodon"
+      },
+      {
+        "start": 197,
+        "end": 205,
+        "probability": 0.64,
+        "type": "Other",
+        "normalized_text": "hachyderm"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1596736429509398528",
+  "public_metrics": {
+    "retweet_count": 0,
+    "reply_count": 1,
+    "like_count": 0,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "@AlanJay1 I think that's correct.\n\n&amp; that's my biggest complaint about mastodon -- I'm not fully in control of who I follow, unless I run my own instance. Even though I agree with the ethos of hachyderm, I'm considering moving to a more open instance so I can follow the people I want to.",
+  "conversation_id": "1596705901813301249",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "replied_to",
+      "id": "1596733683058499584"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1596736429509398528"
+  ],
+  "id_str": "1596736429509398528",
+  "full_text": "@AlanJay1 I think that's correct.\n\n&amp; that's my biggest complaint about mastodon -- I'm not fully in control of who I follow, unless I run my own instance. Even though I agree with the ethos of hachyderm, I'm considering moving to a more open instance so I can follow the people I want to.",
+  "in_reply_to_status_id": "1596733683058499584",
+  "in_reply_to_status_id_str": "1596733683058499584"
+} },
+{ "tweet": {
+  "created_at": "2022-11-27T04:08:37.000Z",
+  "in_reply_to_user_id": "278568311",
+  "entities": {
+    "mentions": [
+      {
+        "start": 0,
+        "end": 9,
+        "username": "AlanJay1",
+        "id": "278568311"
+      }
+    ],
+    "urls": [
+      {
+        "start": 254,
+        "end": 277,
+        "url": "https://t.co/1iiz1bgboR",
+        "expanded_url": "https://github.com/hachyderm/community/issues/57",
+        "display_url": "github.com/hachyderm/comm…",
+        "status": 200,
+        "title": "Suspension of qoto.org · Issue #57 · hachyderm/community",
+        "description": "Hello, I am a new user on your server, and of mastodon in general. As such I wanted to follow the same people on mastodon as I follow on twitter. Unfortunately, it seems that you have suspended int...",
+        "unwound_url": "https://github.com/hachyderm/community/issues/57"
+      }
+    ],
+    "annotations": [
+      {
+        "start": 80,
+        "end": 86,
+        "probability": 0.9598,
+        "type": "Other",
+        "normalized_text": "Twitter"
+      },
+      {
+        "start": 91,
+        "end": 99,
+        "probability": 0.7093,
+        "type": "Other",
+        "normalized_text": "hachyderm"
+      },
+      {
+        "start": 125,
+        "end": 128,
+        "probability": 0.6517,
+        "type": "Other",
+        "normalized_text": "qoto"
+      },
+      {
+        "start": 153,
+        "end": 156,
+        "probability": 0.6418,
+        "type": "Other",
+        "normalized_text": "qoto"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1596717606848847873",
+  "public_metrics": {
+    "retweet_count": 0,
+    "reply_count": 1,
+    "like_count": 1,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "@AlanJay1 Counterpoint, and the main thing that prevents me from fully dropping Twitter -- hachyderm users can't follow your qoto account.\n\nOr anyone on qoto for that matter -- it's blocked, and doesn't look like it will become unblocked any time soon:\n\nhttps://t.co/1iiz1bgboR",
+  "conversation_id": "1596705901813301249",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "replied_to",
+      "id": "1596705901813301249"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1596717606848847873"
+  ],
+  "id_str": "1596717606848847873",
+  "full_text": "@AlanJay1 Counterpoint, and the main thing that prevents me from fully dropping Twitter -- hachyderm users can't follow your qoto account.\n\nOr anyone on qoto for that matter -- it's blocked, and doesn't look like it will become unblocked any time soon:\n\nhttps://t.co/1iiz1bgboR",
+  "in_reply_to_status_id": "1596705901813301249",
+  "in_reply_to_status_id_str": "1596705901813301249"
+} },
+{ "tweet": {
+  "created_at": "2022-11-26T16:49:40.000Z",
+  "in_reply_to_user_id": "15433238",
+  "entities": {
+    "mentions": [
+      {
+        "start": 0,
+        "end": 15,
+        "username": "VicVijayakumar",
+        "id": "15433238"
+      }
+    ],
+    "annotations": [
+      {
+        "start": 16,
+        "end": 28,
+        "probability": 0.718,
+        "type": "Other",
+        "normalized_text": "Cue the \n\nBoy"
+      },
+      {
+        "start": 61,
+        "end": 63,
+        "probability": 0.6342,
+        "type": "Other",
+        "normalized_text": "NaN"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1596546741179924481",
+  "public_metrics": {
+    "retweet_count": 0,
+    "reply_count": 1,
+    "like_count": 11,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "@VicVijayakumar Cue the \n\nBoy, 5.0000000001\n\"Boy, \" + 5\nBoy, NaN\n\njokes",
+  "conversation_id": "1596542149730140161",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "replied_to",
+      "id": "1596542149730140161"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1596546741179924481"
+  ],
+  "id_str": "1596546741179924481",
+  "full_text": "@VicVijayakumar Cue the \n\nBoy, 5.0000000001\n\"Boy, \" + 5\nBoy, NaN\n\njokes",
+  "in_reply_to_status_id": "1596542149730140161",
+  "in_reply_to_status_id_str": "1596542149730140161"
+} },
+{ "tweet": {
+  "created_at": "2022-11-22T16:16:14.000Z",
+  "entities": {
+    "mentions": [
+      {
+        "start": 3,
+        "end": 17,
+        "username": "ADevExPodcast",
+        "id": "1576396764738981889"
+      },
+      {
+        "start": 78,
+        "end": 89,
+        "username": "jonallured",
+        "id": "14578304"
+      }
+    ],
+    "annotations": [
+      {
+        "start": 44,
+        "end": 65,
+        "probability": 0.8191,
+        "type": "Other",
+        "normalized_text": "A Developer Experience"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1595088775327387653",
+  "public_metrics": {
+    "retweet_count": 1,
+    "reply_count": 0,
+    "like_count": 0,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "RT @ADevExPodcast: Enjoy a fresh release of A Developer Experience Podcast! \n\n@jonallured talks about start and stop lists, keeping your to…",
+  "conversation_id": "1595088775327387653",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "retweeted",
+      "id": "1595088706565701632"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1595088775327387653"
+  ],
+  "id_str": "1595088775327387653",
+  "full_text": "RT @ADevExPodcast: Enjoy a fresh release of A Developer Experience Podcast! \n\n@jonallured talks about start and stop lists, keeping your to…"
+} },
+{ "tweet": {
+  "created_at": "2022-11-19T19:00:42.000Z",
+  "entities": {
+    "mentions": [
+      {
+        "start": 3,
+        "end": 14,
+        "username": "uberpreeya",
+        "id": "22225878"
+      }
+    ],
+    "annotations": [
+      {
+        "start": 104,
+        "end": 107,
+        "probability": 0.7765,
+        "type": "Other",
+        "normalized_text": "Noel"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1594043004288835584",
+  "public_metrics": {
+    "retweet_count": 241,
+    "reply_count": 0,
+    "like_count": 0,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "RT @uberpreeya: In the ten minutes I have before meeting and work...here is my Take.\n\nIn the event that Noel isn't doing this out of actual…",
+  "conversation_id": "1594043004288835584",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "retweeted",
+      "id": "1593697259559886848"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1594043004288835584"
+  ],
+  "id_str": "1594043004288835584",
+  "full_text": "RT @uberpreeya: In the ten minutes I have before meeting and work...here is my Take.\n\nIn the event that Noel isn't doing this out of actual…"
+} },
+{ "tweet": {
+  "created_at": "2022-11-18T20:38:56.000Z",
+  "in_reply_to_user_id": "14225758",
+  "entities": {
+    "mentions": [
+      {
+        "start": 0,
+        "end": 10,
+        "username": "jwcarroll",
+        "id": "14225758"
+      }
+    ],
+    "annotations": [
+      {
+        "start": 11,
+        "end": 26,
+        "probability": 0.9544,
+        "type": "Other",
+        "normalized_text": "Children of Time"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1593705334505340928",
+  "public_metrics": {
+    "retweet_count": 0,
+    "reply_count": 1,
+    "like_count": 1,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "@jwcarroll Children of Time twists on this a bit. \"Societal impact\" but those words kind of mean something different than you might be looking for.",
+  "conversation_id": "1593702924265443328",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "replied_to",
+      "id": "1593702924265443328"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1593705334505340928"
+  ],
+  "id_str": "1593705334505340928",
+  "full_text": "@jwcarroll Children of Time twists on this a bit. \"Societal impact\" but those words kind of mean something different than you might be looking for.",
+  "in_reply_to_status_id": "1593702924265443328",
+  "in_reply_to_status_id_str": "1593702924265443328"
+} },
+{ "tweet": {
+  "created_at": "2022-11-18T01:33:03.000Z",
+  "entities": {
+    "mentions": [
+      {
+        "start": 3,
+        "end": 18,
+        "username": "PleaseBeGneiss",
+        "id": "830468488967843840"
+      }
+    ],
+    "annotations": [
+      {
+        "start": 62,
+        "end": 65,
+        "probability": 0.4958,
+        "type": "Other",
+        "normalized_text": "Arby"
+      },
+      {
+        "start": 81,
+        "end": 89,
+        "probability": 0.5726,
+        "type": "Other",
+        "normalized_text": "Pine Yelp"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1593416963891527680",
+  "public_metrics": {
+    "retweet_count": 2579,
+    "reply_count": 0,
+    "like_count": 0,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "RT @PleaseBeGneiss: hey i think we’re all heading over to the Arby’s on 35th and Pine Yelp review page if you want to come",
+  "conversation_id": "1593416963891527680",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "retweeted",
+      "id": "1593408484682321920"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1593416963891527680"
+  ],
+  "id_str": "1593416963891527680",
+  "full_text": "RT @PleaseBeGneiss: hey i think we’re all heading over to the Arby’s on 35th and Pine Yelp review page if you want to come"
+} },
+{ "tweet": {
+  "created_at": "2022-11-17T17:31:27.000Z",
+  "in_reply_to_user_id": "196217788",
+  "entities": {
+    "mentions": [
+      {
+        "start": 0,
+        "end": 13,
+        "username": "millicanmatt",
+        "id": "196217788"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1593295766411436033",
+  "public_metrics": {
+    "retweet_count": 0,
+    "reply_count": 1,
+    "like_count": 1,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "@millicanmatt He just wants you to think twice about how much you like the tweets.",
+  "conversation_id": "1593291077607383047",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "replied_to",
+      "id": "1593293943906656256"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1593295766411436033"
+  ],
+  "id_str": "1593295766411436033",
+  "full_text": "@millicanmatt He just wants you to think twice about how much you like the tweets.",
+  "in_reply_to_status_id": "1593293943906656256",
+  "in_reply_to_status_id_str": "1593293943906656256"
+} },
+{ "tweet": {
+  "created_at": "2022-11-17T17:12:49.000Z",
+  "author_id": "79355346",
+  "id": "1593291077607383047",
+  "public_metrics": {
+    "retweet_count": 0,
+    "reply_count": 1,
+    "like_count": 8,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "99% sure I scheduled a tweet for this morning, and it didn't show up, so I think that's one of the robots that guy unplugged.",
+  "conversation_id": "1593291077607383047",
+  "reply_settings": "everyone",
+  "edit_history_tweet_ids": [
+    "1593291077607383047"
+  ],
+  "id_str": "1593291077607383047",
+  "full_text": "99% sure I scheduled a tweet for this morning, and it didn't show up, so I think that's one of the robots that guy unplugged."
+} },
+{ "tweet": {
+  "created_at": "2022-11-17T17:09:53.000Z",
+  "entities": {
+    "mentions": [
+      {
+        "start": 3,
+        "end": 17,
+        "username": "ADevExPodcast",
+        "id": "1576396764738981889"
+      },
+      {
+        "start": 64,
+        "end": 75,
+        "username": "jonallured",
+        "id": "14578304"
+      }
+    ],
+    "annotations": [
+      {
+        "start": 34,
+        "end": 53,
+        "probability": 0.6317,
+        "type": "Other",
+        "normalized_text": "Developer Experience"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1593290338415812623",
+  "public_metrics": {
+    "retweet_count": 3,
+    "reply_count": 0,
+    "like_count": 0,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "RT @ADevExPodcast: Next week on A Developer Experience Podcast, @jonallured shares how he bounces back from a bad day: self-compassion, and…",
+  "conversation_id": "1593290338415812623",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "retweeted",
+      "id": "1593290208035979265"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1593290338415812623"
+  ],
+  "id_str": "1593290338415812623",
+  "full_text": "RT @ADevExPodcast: Next week on A Developer Experience Podcast, @jonallured shares how he bounces back from a bad day: self-compassion, and…"
+} },
+{ "tweet": {
+  "created_at": "2022-11-16T22:03:50.000Z",
+  "in_reply_to_user_id": "196217788",
+  "entities": {
+    "mentions": [
+      {
+        "start": 0,
+        "end": 13,
+        "username": "millicanmatt",
+        "id": "196217788"
+      }
+    ],
+    "annotations": [
+      {
+        "start": 21,
+        "end": 24,
+        "probability": 0.7462,
+        "type": "Person",
+        "normalized_text": "Matt"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1593001927117541377",
+  "public_metrics": {
+    "retweet_count": 0,
+    "reply_count": 0,
+    "like_count": 1,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "@millicanmatt Thanks Matt! I'll take the laughs over literally anything else, so I'm counting it as a huge win.",
+  "conversation_id": "1592943202059059200",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "replied_to",
+      "id": "1592985154955268096"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1593001927117541377"
+  ],
+  "id_str": "1593001927117541377",
+  "full_text": "@millicanmatt Thanks Matt! I'll take the laughs over literally anything else, so I'm counting it as a huge win.",
+  "in_reply_to_status_id": "1592985154955268096",
+  "in_reply_to_status_id_str": "1592985154955268096"
+} },
+{ "tweet": {
+  "created_at": "2022-11-16T19:16:45.000Z",
+  "entities": {
+    "mentions": [
+      {
+        "start": 3,
+        "end": 15,
+        "username": "djsheldrick",
+        "id": "109404932"
+      }
+    ],
+    "annotations": [
+      {
+        "start": 25,
+        "end": 31,
+        "probability": 0.5789,
+        "type": "Other",
+        "normalized_text": "O'CLOCK"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1592959880264318977",
+  "public_metrics": {
+    "retweet_count": 11,
+    "reply_count": 0,
+    "like_count": 0,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "RT @djsheldrick: CONTENT O'CLOCK 🧵 How to animate a camera on a 2D canvas? Trickier than it seems!\n\nA camera is stored as x and y coordinat…",
+  "conversation_id": "1592959880264318977",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "retweeted",
+      "id": "1592850831120138240"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1592959880264318977"
+  ],
+  "id_str": "1592959880264318977",
+  "full_text": "RT @djsheldrick: CONTENT O'CLOCK 🧵 How to animate a camera on a 2D canvas? Trickier than it seems!\n\nA camera is stored as x and y coordinat…"
+} },
+{ "tweet": {
+  "created_at": "2022-11-16T18:23:39.000Z",
+  "in_reply_to_user_id": "49431775",
+  "entities": {
+    "mentions": [
+      {
+        "start": 0,
+        "end": 7,
+        "username": "Oobert",
+        "id": "49431775"
+      }
+    ],
+    "annotations": [
+      {
+        "start": 13,
+        "end": 15,
+        "probability": 0.5282,
+        "type": "Organization",
+        "normalized_text": "RPC"
+      },
+      {
+        "start": 44,
+        "end": 46,
+        "probability": 0.3723,
+        "type": "Organization",
+        "normalized_text": "RPC"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1592946513964986368",
+  "public_metrics": {
+    "retweet_count": 0,
+    "reply_count": 0,
+    "like_count": 1,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "@Oobert It's RPC whack-a-mole. You kill one RPC, 1200 more pop up.",
+  "conversation_id": "1592941454347104256",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "replied_to",
+      "id": "1592941454347104256"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1592946513964986368"
+  ],
+  "id_str": "1592946513964986368",
+  "full_text": "@Oobert It's RPC whack-a-mole. You kill one RPC, 1200 more pop up.",
+  "in_reply_to_status_id": "1592941454347104256",
+  "in_reply_to_status_id_str": "1592941454347104256"
+} },
+{ "tweet": {
+  "created_at": "2022-11-16T18:10:29.000Z",
+  "author_id": "79355346",
+  "id": "1592943202059059200",
+  "public_metrics": {
+    "retweet_count": 0,
+    "reply_count": 1,
+    "like_count": 5,
+    "quote_count": 1
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "We must be approaching winter, cuz I wrote an article (1st one since May!):\n\nhttps://t.co/zXIdbO0YMU\n\nTL;DR I had a bunch of repetitive PRs to open. Rather than suffer like a cave person I automated as much as I could. Along the way I learned more about sed and the GitHub CLI.",
+  "entities": {
+    "urls": [
+      {
+        "start": 77,
+        "end": 100,
+        "url": "https://t.co/zXIdbO0YMU",
+        "expanded_url": "https://www.stevenhicks.me/blog/2022/11/automating-pull-requests/",
+        "display_url": "stevenhicks.me/blog/2022/11/a…",
+        "images": [
+          {
+            "url": "https://pbs.twimg.com/news_img/1592943244857729025/-lj6-pdI?format=jpg&name=orig",
+            "width": 1280,
+            "height": 669
+          },
+          {
+            "url": "https://pbs.twimg.com/news_img/1592943244857729025/-lj6-pdI?format=jpg&name=150x150",
+            "width": 150,
+            "height": 150
+          }
+        ],
+        "status": 200,
+        "title": "Automating Pull Requests With Sed And The GitHub CLI",
+        "description": "Recently I needed to make a bunch of nearly duplicate pull requests. Like any good programmer, I automated the repetition, using sed and the GitHub CLI.",
+        "unwound_url": "https://www.stevenhicks.me/blog/2022/11/automating-pull-requests/"
+      }
+    ],
+    "annotations": [
+      {
+        "start": 266,
+        "end": 271,
+        "probability": 0.9114,
+        "type": "Other",
+        "normalized_text": "GitHub"
+      }
+    ]
+  },
+  "conversation_id": "1592943202059059200",
+  "reply_settings": "everyone",
+  "edit_history_tweet_ids": [
+    "1592943202059059200"
+  ],
+  "id_str": "1592943202059059200",
+  "full_text": "We must be approaching winter, cuz I wrote an article (1st one since May!):\n\nhttps://t.co/zXIdbO0YMU\n\nTL;DR I had a bunch of repetitive PRs to open. Rather than suffer like a cave person I automated as much as I could. Along the way I learned more about sed and the GitHub CLI."
+} },
+{ "tweet": {
+  "created_at": "2022-11-15T16:28:12.000Z",
+  "author_id": "79355346",
+  "id": "1592555074446036994",
+  "public_metrics": {
+    "retweet_count": 0,
+    "reply_count": 0,
+    "like_count": 1,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "I got bored of editing and recorded my voice for a couple more minutes. https://t.co/oLyV0YhIa4",
+  "entities": {
+    "urls": [
+      {
+        "start": 72,
+        "end": 95,
+        "url": "https://t.co/oLyV0YhIa4",
+        "expanded_url": "https://twitter.com/ADevExPodcast/status/1592554775408934914",
+        "display_url": "twitter.com/ADevExPodcast/…"
+      }
+    ]
+  },
+  "conversation_id": "1592555074446036994",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "quoted",
+      "id": "1592554775408934914"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1592555074446036994"
+  ],
+  "id_str": "1592555074446036994",
+  "full_text": "I got bored of editing and recorded my voice for a couple more minutes. https://t.co/oLyV0YhIa4"
+} },
+{ "tweet": {
+  "created_at": "2022-11-15T14:30:31.000Z",
+  "in_reply_to_user_id": "794880560",
+  "entities": {
+    "mentions": [
+      {
+        "start": 0,
+        "end": 13,
+        "username": "MissAmaraKay",
+        "id": "794880560"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1592525456649093122",
+  "public_metrics": {
+    "retweet_count": 0,
+    "reply_count": 0,
+    "like_count": 1,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "@MissAmaraKay 😲😬👎\n\nAh yes, the collarbone to pants smuggling pipeline, I've heard this is a real problem.",
+  "conversation_id": "1592511730483351552",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "replied_to",
+      "id": "1592511730483351552"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1592525456649093122"
+  ],
+  "id_str": "1592525456649093122",
+  "full_text": "@MissAmaraKay 😲😬👎\n\nAh yes, the collarbone to pants smuggling pipeline, I've heard this is a real problem.",
+  "in_reply_to_status_id": "1592511730483351552",
+  "in_reply_to_status_id_str": "1592511730483351552"
+} },
+{ "tweet": {
+  "created_at": "2022-11-14T21:01:28.000Z",
+  "in_reply_to_user_id": "79355346",
+  "author_id": "79355346",
+  "id": "1592261453712879617",
+  "public_metrics": {
+    "retweet_count": 0,
+    "reply_count": 0,
+    "like_count": 1,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "\"remote procedure call calls\" ok steve🙄",
+  "conversation_id": "1592259722140606464",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "replied_to",
+      "id": "1592259722140606464"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1592261453712879617"
+  ],
+  "id_str": "1592261453712879617",
+  "full_text": "\"remote procedure call calls\" ok steve🙄",
+  "in_reply_to_status_id": "1592259722140606464",
+  "in_reply_to_status_id_str": "1592259722140606464"
+} },
+{ "tweet": {
+  "created_at": "2022-11-14T20:54:35.000Z",
+  "author_id": "79355346",
+  "id": "1592259722140606464",
+  "public_metrics": {
+    "retweet_count": 2,
+    "reply_count": 1,
+    "like_count": 6,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "what if the real treasure is the 1000 poorly batched RPC calls we made along the way?",
+  "conversation_id": "1592259722140606464",
+  "entities": {
+    "annotations": [
+      {
+        "start": 53,
+        "end": 55,
+        "probability": 0.4295,
+        "type": "Organization",
+        "normalized_text": "RPC"
+      }
+    ]
+  },
+  "reply_settings": "everyone",
+  "edit_history_tweet_ids": [
+    "1592259722140606464"
+  ],
+  "id_str": "1592259722140606464",
+  "full_text": "what if the real treasure is the 1000 poorly batched RPC calls we made along the way?"
+} },
+{ "tweet": {
+  "created_at": "2022-11-13T18:06:38.000Z",
+  "entities": {
+    "mentions": [
+      {
+        "start": 3,
+        "end": 18,
+        "username": "PleaseBeGneiss",
+        "id": "830468488967843840"
+      }
+    ],
+    "urls": [
+      {
+        "start": 20,
+        "end": 43,
+        "url": "https://t.co/SW9P6Zkmgo",
+        "expanded_url": "https://twitter.com/PleaseBeGneiss/status/1591849159765929984/photo/1",
+        "display_url": "pic.twitter.com/SW9P6Zkmgo",
+        "media_key": "3_1591849153893572608"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1591855071083790336",
+  "public_metrics": {
+    "retweet_count": 170,
+    "reply_count": 0,
+    "like_count": 0,
+    "quote_count": 0
+  },
+  "lang": "zxx",
+  "possibly_sensitive": false,
+  "text": "RT @PleaseBeGneiss: https://t.co/SW9P6Zkmgo",
+  "conversation_id": "1591855071083790336",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "retweeted",
+      "id": "1591849159765929984"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1591855071083790336"
+  ],
+  "id_str": "1591855071083790336",
+  "full_text": "RT @PleaseBeGneiss: https://t.co/SW9P6Zkmgo"
+} },
+{ "tweet": {
+  "created_at": "2022-11-13T18:03:01.000Z",
+  "entities": {
+    "mentions": [
+      {
+        "start": 3,
+        "end": 19,
+        "username": "TraumaSoapBoxes",
+        "id": "849789205333127168"
+      }
+    ],
+    "annotations": [
+      {
+        "start": 24,
+        "end": 27,
+        "probability": 0.9488,
+        "type": "Person",
+        "normalized_text": "Elon"
+      }
+    ]
+  },
+  "author_id": "79355346",
+  "id": "1591854160236122112",
+  "public_metrics": {
+    "retweet_count": 988,
+    "reply_count": 0,
+    "like_count": 0,
+    "quote_count": 0
+  },
+  "lang": "en",
+  "possibly_sensitive": false,
+  "text": "RT @TraumaSoapBoxes: If Elon can get a billion dollar loan to run a website into the ground and then declare bankruptcy why y’all trying to…",
+  "conversation_id": "1591854160236122112",
+  "reply_settings": "everyone",
+  "referenced_tweets": [
+    {
+      "type": "retweeted",
+      "id": "1591291658355646465"
+    }
+  ],
+  "edit_history_tweet_ids": [
+    "1591854160236122112"
+  ],
+  "id_str": "1591854160236122112",
+  "full_text": "RT @TraumaSoapBoxes: If Elon can get a billion dollar loan to run a website into the ground and then declare bankruptcy why y’all trying to…"
+} },
